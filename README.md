@@ -12,6 +12,8 @@ Especificamente, este projeto visa:
 •	Analisar a eficiência dos algoritmos em diferentes cenários de dados
 •	Desenvolver uma interface interativa para facilitar os testes 
 
+
+Esses gráficos representam ordenação com dados reais obtidos através: https://terrabrasilis.dpi.inpe.br/
 ![Texto alternativo](grafico_tempo_execucao.png)
 
 
