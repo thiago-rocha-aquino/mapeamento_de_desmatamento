@@ -13,3 +13,7 @@ Especificamente, este projeto visa:
 •	Desenvolver uma interface interativa para facilitar os testes 
 
 ![Texto alternativo](grafico_tempo_execucao.png)
+
+
+
+![Texto alternativo](grafico_heatmap_desempenho.png)
