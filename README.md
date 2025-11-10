@@ -12,4 +12,4 @@ Especificamente, este projeto visa:
 •	Analisar a eficiência dos algoritmos em diferentes cenários de dados
 •	Desenvolver uma interface interativa para facilitar os testes 
 
-![Texto alternativo](<img width="4468" height="1768" alt="grafico_tempo_execucao" src="https://github.com/user-attachments/assets/a9092ef5-c928-4ee0-8d36-2165f54a913b" />)
+![Texto alternativo](grafico_tempo_execucao.png)
