@@ -16,4 +16,4 @@ Especificamente, este projeto visa:
 
 
 
-![Texto alternativo](grafico_heatmap_desempenho.png)
+![Texto alternativo](grafico_projecao_100k.png)
